@@ -1,5 +1,7 @@
 # Homebrew-nodenv-head-only
 
+[![Build Status](https://img.shields.io/travis/jawshooah/homebrew-nodenv-head-only/master.svg)](https://travis-ci.org/jawshooah/homebrew-nodenv-head-only)
+
 This tap provides Homebrew formulae for [plugins](https://github.com/OiNutter/nodenv/wiki/Plugins) extending [nodenv](https://github.com/OiNutter/nodenv) which have no versioned releases.
 
 ## Installing Homebrew-nodenv Formulae
