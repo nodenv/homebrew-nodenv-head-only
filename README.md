@@ -1,16 +1,16 @@
 # Homebrew-nodenv-head-only
 
-[![Build Status](https://img.shields.io/travis/jawshooah/homebrew-nodenv-head-only/master.svg)](https://travis-ci.org/jawshooah/homebrew-nodenv-head-only)
+[![Build Status](https://img.shields.io/travis/nodenv/homebrew-nodenv-head-only/master.svg)](https://travis-ci.org/nodenv/homebrew-nodenv-head-only)
 
-This tap provides Homebrew formulae for [plugins](https://github.com/OiNutter/nodenv/wiki/Plugins) extending [nodenv](https://github.com/OiNutter/nodenv) which have no versioned releases.
+This tap provides Homebrew formulae for [plugins](https://github.com/nodenv/nodenv/wiki/Plugins) extending [nodenv](https://github.com/nodenv/nodenv) which have no versioned releases.
 
 ## Installing Homebrew-nodenv Formulae
-Just `brew tap jawshooah/nodenv-head-only` and then `brew install --HEAD <formula>`. You only need to tap the repository once.
+Just `brew tap nodenv/nodenv-head-only` and then `brew install --HEAD <formula>`. You only need to tap the repository once.
 
 You can also install via URL:
 
 ```
-brew install --HEAD https://raw.githubusercontent.com/jawshooah/homebrew-nodenv/master/<formula>.rb
+brew install --HEAD https://raw.githubusercontent.com/nodenv/homebrew-nodenv/master/<formula>.rb
 ```
 
 ## Troubleshooting
