@@ -1,0 +1,14 @@
+{
+  "node-build-prerelease": "nodenv/nodenv",
+  "node-build-update-defs": "nodenv/nodenv",
+  "nodenv-aliases": "nodenv/nodenv",
+  "nodenv-default-npmrc": "nodenv/nodenv",
+  "nodenv-default-packages": "nodenv/nodenv",
+  "nodenv-each": "nodenv/nodenv",
+  "nodenv-man": "nodenv/nodenv",
+  "nodenv-npm-migrate": "nodenv/nodenv",
+  "nodenv-package-json-engine": "nodenv/nodenv",
+  "nodenv-package-rehash": "nodenv/nodenv",
+  "nodenv-update": "nodenv/nodenv",
+  "nodenv-vars": "nodenv/nodenv"
+}
